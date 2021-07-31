@@ -29,3 +29,6 @@ a:hover{
 html{
     background-color: hsl(600, 30%, 70%);
 }
+span{
+    color: gold;
+}
