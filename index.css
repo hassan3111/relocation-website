@@ -26,3 +26,6 @@ body{
 a:hover{
     opacity: 0.4;
 }
+html{
+    background-color: hsl(600, 30%, 70%);
+}
